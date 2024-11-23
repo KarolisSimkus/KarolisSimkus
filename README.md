@@ -3,16 +3,15 @@
 
 ---
 
-I'm Karolis, and I've dedicated my academic journey to
-unraveling the complexities of code and the digital unknown.
-From debugging elusive errors to crafting innovative solutions,
-I'm delving into the world of software development with a
-passion for deciphering the language of technology whilst
+I'm Karolis.
+I've dedicated my journey to
+unravel the complexities of the digital unknown.
+From elusive errors to innovative solutions,
+I'm delving into the world of software with a
+passion for technology whilst
 having a tendency to end up in some very strange situations.
-Now, I'm on a search for a new coding adventure to bridge the
-gap between theory and practice, and I hope to join you on this
-expedition through the ever-evolving landscape of software
-development.
+Now, I'm on a search for a new coding adventure and I hope to join you on this
+expedition through the ever-evolving landscape of the unknown.
 
 
 ### ⚙️ Technical Skills
