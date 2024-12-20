@@ -3,17 +3,6 @@
 
 ---
 
-I'm Karolis.
-I've dedicated my journey to
-unravel the complexities of the digital unknown.
-From elusive errors to innovative solutions,
-I'm delving into the world of software with a
-passion for technology whilst
-having a tendency to end up in some very strange situations.
-Now, I'm on a search for a new coding adventure and I hope to join you on this
-expedition through the ever-evolving landscape of the unknown.
-
-
 ### ⚙️ Technical Skills
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
