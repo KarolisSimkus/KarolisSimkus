@@ -1,7 +1,7 @@
 # 🎓 Karolis Šimkus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 **`💾 Programmer | Musician 🎸`**
 
-I’m a software engineering student passionate about coding, problem-solving, and building applications. I enjoy programming and love exploring new tools to improve my skillset. Beyond academics, I’m always looking for opportunities to collaborate, learn from others, and contribute to meaningful projects. Let's have a chat sometime:)
+Versatile Software Programmer with hands-on experience across three internships, contributing to personal finance and insurance applications. Skilled in Python, REST API development, PL-SQL, C++, Java, Oracle SQL, C# and Git, with a strong focus on building maintainable and scalable code. Proven ability to develop and document APIs and database solutions that support multi-team collaboration and enhance application reliability.
 
 ### ⚙️ Languages and Tools
 
