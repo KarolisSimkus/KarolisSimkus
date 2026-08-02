@@ -1,7 +1,9 @@
 # 🎓 Karolis Šimkus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 **`💾 Programmer | Musician 🎸`**
 
-Junior Software Programmer with hands-on experience across three internships, contributing to personal finance and insurance applications. Skilled in Python, C++, Java, SQL, C# and Git.
+Software Engineering student at VilniusTech, graduating 2027, with three internships across fintech and insurance building hands-on experience with Python, C#, SQL.
+
+I'm currently looking for my next internship or junior developer role. Open to backend, full-stack, or data-focused positions across Lithuania and the EU. If you're hiring or just want to talk shop — reach out.
 
 ### ⚙️ Languages and Tools
 
